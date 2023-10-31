@@ -1,5 +1,5 @@
 {
-    "name": "gnikyt/basic-shopify-api",
+    "name": "bigware/basic-shopify-api",
     "description": "A basic Shopify API wrapper with REST and GraphQL support, powered by Guzzle.",
     "license": "MIT",
     "type": "library",
